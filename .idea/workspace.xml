@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="463be60c-e281-4d15-b6e9-52d6665ece18" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/algo_2490.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test-java/main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/algo_2490.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -227,12 +226,12 @@
       <workItem from="1523553424403" duration="509000" />
       <workItem from="1525699464086" duration="8000" />
       <workItem from="1525699474900" duration="1000" />
-      <workItem from="1526887237672" duration="1973000" />
+      <workItem from="1526887237672" duration="2245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5176000" />
+    <option name="totallyTimeSpent" value="5448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="23" width="840" height="1027" extended-state="0" />
@@ -417,7 +416,7 @@
     <entry file="file://$PROJECT_DIR$/src/algo_2490.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
