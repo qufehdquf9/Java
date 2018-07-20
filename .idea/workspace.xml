@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="463be60c-e281-4d15-b6e9-52d6665ece18" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo_5789.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo_10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo_10950.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,11 +58,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="algo_10950.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="algo_10950.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algo_10950.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="algo_5789.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algo_5789.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,7 +85,7 @@
       <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="8190">
               <caret line="579" selection-start-line="579" selection-end-line="579" />
             </state>
           </provider>
@@ -113,6 +126,8 @@
         <option value="$PROJECT_DIR$/src/algo_2490_collection.java" />
         <option value="$PROJECT_DIR$/src/algo_2558.java" />
         <option value="$PROJECT_DIR$/src/algo_10950.java" />
+        <option value="$PROJECT_DIR$/src/algo_10951.java" />
+        <option value="$PROJECT_DIR$/src/algo_5789.java" />
       </list>
     </option>
   </component>
@@ -126,7 +141,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="757" />
+    <option name="x" value="786" />
     <option name="y" value="23" />
     <option name="width" value="894" />
     <option name="height" value="1027" />
@@ -137,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -167,6 +181,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,16 +202,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.algo_10950">
+  <component name="RunManager" selected="Application.algo_5789">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="algo_10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo_10172" />
-      <module name="test-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="algo_10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -216,6 +226,11 @@
     </configuration>
     <configuration name="algo_2558" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo_2558" />
+      <module name="test-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="algo_5789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo_5789" />
       <module name="test-java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -258,19 +273,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.algo_10172" />
       <item itemvalue="Application.algo_2490" />
       <item itemvalue="Application.algo_2490_collection" />
       <item itemvalue="Application.algo_2558" />
       <item itemvalue="Application.algo_10950" />
+      <item itemvalue="Application.algo_5789" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.algo_5789" />
         <item itemvalue="Application.algo_10950" />
         <item itemvalue="Application.algo_2558" />
         <item itemvalue="Application.algo_2490_collection" />
         <item itemvalue="Application.algo_2490" />
-        <item itemvalue="Application.algo_10172" />
       </list>
     </recent_temporary>
   </component>
@@ -297,15 +312,16 @@
       <workItem from="1530280489091" duration="2562000" />
       <workItem from="1530366344903" duration="665000" />
       <workItem from="1531902633917" duration="755000" />
-      <workItem from="1531985900460" duration="8295000" />
+      <workItem from="1531985900460" duration="8504000" />
+      <workItem from="1532078217706" duration="7082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21173000" />
+    <option name="totallyTimeSpent" value="28464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="757" y="23" width="894" height="1027" extended-state="0" />
+    <frame x="786" y="23" width="894" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -345,23 +361,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6480">
-          <caret line="432" selection-start-line="432" selection-end-line="432" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo_10950.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -648,15 +647,32 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="8190">
           <caret line="579" selection-start-line="579" selection-end-line="579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="514" column="12" lean-forward="true" selection-start-line="514" selection-start-column="12" selection-end-line="514" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo_10950.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo_5789.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
